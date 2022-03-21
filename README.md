@@ -1,4 +1,4 @@
-# Arrodes-Bot
+# [Arrodes-Bot](https://discord.com/api/oauth2/authorize?client_id=947003162487836693&permissions=8&scope=bot%20applications.commands)
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/894682213831016529/955602024559443988/round.png" style="width: 300px; height: 300px; margin:auto; border-radius: 10px">
 </p>
