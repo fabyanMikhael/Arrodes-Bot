@@ -1,4 +1,7 @@
 # Arrodes-Bot
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/894682213831016529/955602024559443988/round.png" style="width: 300px; height: 300px; margin:auto; border-radius: 10px">
+</p>
 
 - Arrodes is a general bot where every group of related commands is a single `Feature` 
 - `Futures` can be disabled/enabled by admins of a server as needed, so you only enable what you need 
