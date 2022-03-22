@@ -4,7 +4,7 @@
 </p>
 
 - Arrodes is a general bot where every group of related commands is a single `Feature` 
-- `Futures` can be disabled/enabled by admins of a server as needed, so you only enable what you need 
+- `Features` can be disabled/enabled by admins of a server as needed, so you only enable what you need 
 
 ## current features
 - `MusicPlayer` : A music player which can play youtube and spotify music (will probably removed)
